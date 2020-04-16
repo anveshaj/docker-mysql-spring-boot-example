@@ -25,3 +25,6 @@ From the directory of Dockerfile - `docker build . -t users-mysql`
 - `docker logs <container_name>`
 - `docker container rm <container_name`
 - `docker image rm <image_name`
+
+
+https://www.youtube.com/watch?v=fvEWoy1xOvo
